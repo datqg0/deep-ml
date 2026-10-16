@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:02:36.991Z",
+  "generated_at": "2026-11-15T08:15:53.420Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -685,6 +685,32 @@
       "last_pushed_at": "2026-11-15T08:02:33.458Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-16T02:56:43.705Z",
+      "last_pushed_at": "2026-10-16T02:56:43.705Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:374": {
+      "kind": "problem",
+      "id": "374",
+      "title": "Character-Level Tokenizer (stoi/itos/BOS)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/374",
+      "path": "problems/0374-character-level-tokenizer-stoi-itos-bos",
+      "first_solved_at": "2026-10-16T04:42:37.789Z",
+      "last_pushed_at": "2026-10-16T04:42:37.789Z",
+      "language": "python",
+      "lines": 62
     }
   }
 }

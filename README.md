@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 39 problems · 1 labs · 15 math
+**57** solved · 41 problems · 1 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-23 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-11-02 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-23 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
+| [Character-Level Tokenizer (stoi/itos/BOS)](https://www.deep-ml.com/problems/374) | easy | 2026-10-16 | [solution](problems/0374-character-level-tokenizer-stoi-itos-bos) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-11-08 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-11-05 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-06 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
@@ -34,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-10-29 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-11-05 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-16 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-03 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-24 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-11-06 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
