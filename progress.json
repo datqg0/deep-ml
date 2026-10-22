@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:30:58.193Z",
+  "generated_at": "2026-10-22T03:11:55.620Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -11,6 +11,19 @@
       "path": "problems/0005-scalar-multiplication-of-a-matrix",
       "first_solved_at": "2026-10-21T11:30:53.477Z",
       "last_pushed_at": "2026-10-21T11:30:53.477Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-10-22T03:11:53.314Z",
+      "last_pushed_at": "2026-10-22T03:11:53.314Z",
       "language": "python",
       "lines": 7
     }
