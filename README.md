@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 4 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-23 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-21 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-23 | [solution](math/0030-ml-workflow-basics) |
 
 ---
 
