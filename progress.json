@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:25:25.910Z",
+  "generated_at": "2026-10-26T11:42:06.204Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -221,6 +221,17 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-10-25T18:25:24.878Z",
       "last_pushed_at": "2026-10-25T18:25:24.878Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-10-26T11:42:04.968Z",
+      "last_pushed_at": "2026-10-26T11:42:04.968Z"
     }
   }
 }
