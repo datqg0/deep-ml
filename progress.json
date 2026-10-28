@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T00:27:32.813Z",
+  "generated_at": "2026-10-28T03:58:42.793Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -269,6 +269,19 @@
       "path": "math/0002-multivariate-calculus",
       "first_solved_at": "2026-10-28T00:27:31.585Z",
       "last_pushed_at": "2026-10-28T00:27:31.585Z"
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-10-28T03:58:41.568Z",
+      "last_pushed_at": "2026-10-28T03:58:41.568Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
