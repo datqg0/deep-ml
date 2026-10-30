@@ -18,7 +18,7 @@ def activation(x):
     '''
     
     # TODO: Implement your activation function
-    
-    result = np.maximum(0, x)  # Replace with your activation
+    a = 0.001
+    result = np.maximum(x*a, x)  # Replace with your activation
     
     return result
