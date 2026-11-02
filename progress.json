@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:26:55.815Z",
+  "generated_at": "2026-11-02T16:11:32.431Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -384,6 +384,19 @@
       "path": "problems/1278-tensor-puzzle-reverse-a-vector",
       "first_solved_at": "2026-11-01T15:26:52.939Z",
       "last_pushed_at": "2026-11-01T15:26:52.939Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-11-02T16:11:30.974Z",
+      "last_pushed_at": "2026-11-02T16:11:30.974Z",
       "language": "python",
       "lines": 10
     }
