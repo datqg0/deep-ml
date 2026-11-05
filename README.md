@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 20 problems · 1 labs · 15 math
+**37** solved · 21 problems · 1 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-29 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-30 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-10-29 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-11-05 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-03 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-24 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
