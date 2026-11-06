@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 22 problems · 1 labs · 15 math
+**39** solved · 23 problems · 1 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-11-01 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-10-31 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-05 | [solution](problems/0847-dummy-classifier-baseline) |
+| [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-11-06 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-03 | [solution](problems/0842-standardscaler-fit-and-transform) |
 
 ## Labs
