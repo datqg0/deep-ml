@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:15:55.910Z",
+  "generated_at": "2026-11-15T08:15:58.318Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -750,6 +750,32 @@
       "last_pushed_at": "2026-10-21T11:27:36.228Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:1224": {
+      "kind": "problem",
+      "id": "1224",
+      "title": "Single Linear Neuron Forward",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1224",
+      "path": "problems/1224-single-linear-neuron-forward",
+      "first_solved_at": "2026-11-07T17:39:17.824Z",
+      "last_pushed_at": "2026-11-07T17:39:17.824Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:1225": {
+      "kind": "problem",
+      "id": "1225",
+      "title": "Two-Layer MLP Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1225",
+      "path": "problems/1225-two-layer-mlp-forward-pass",
+      "first_solved_at": "2026-11-07T17:53:15.837Z",
+      "last_pushed_at": "2026-11-07T17:53:15.837Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }

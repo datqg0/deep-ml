@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 44 problems · 1 labs · 15 math
+**62** solved · 46 problems · 1 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-21 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-21 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-27 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-11-07 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-30 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-28 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Tensor Puzzle: Circular Roll by One](https://www.deep-ml.com/problems/1277) | easy | 2026-11-13 | [solution](problems/1277-tensor-puzzle-circular-roll-by-one) |
@@ -56,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-09 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-15 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-03 | [solution](problems/0842-standardscaler-fit-and-transform) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-11-07 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 
 ## Labs
 
