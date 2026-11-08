@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**62** solved · 46 problems · 1 labs · 15 math
+**65** solved · 49 problems · 1 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-11-06 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Batch a TensorDataset with DataLoader](https://www.deep-ml.com/problems/1237) | easy | 2026-11-09 | [solution](problems/1237-batch-a-tensordataset-with-dataloader) |
 | [Build a Dataset and Use It with a DataLoader](https://www.deep-ml.com/problems/899) | easy | 2026-11-08 | [solution](problems/0899-build-a-dataset-and-use-it-with-a-dataloader) |
+| [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-11-08 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-23 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-11-02 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-23 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
@@ -37,10 +38,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-11-05 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-16 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-11-08 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-03 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-24 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-11-06 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-21 | [solution](problems/0003-reshape-matrix) |
+| [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-11-08 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-21 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-27 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-11-07 | [solution](problems/1224-single-linear-neuron-forward) |

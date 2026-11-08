@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:15:58.318Z",
+  "generated_at": "2026-11-15T08:16:00.042Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -776,6 +776,45 @@
       "last_pushed_at": "2026-11-07T17:53:15.837Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-11-08T03:08:28.338Z",
+      "last_pushed_at": "2026-11-08T03:08:28.338Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:886": {
+      "kind": "problem",
+      "id": "886",
+      "title": "Run One Training Step: Forward, Loss, Backward, Optimizer",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/886",
+      "path": "problems/0886-run-one-training-step-forward-loss-backward-optimizer",
+      "first_solved_at": "2026-11-08T16:03:00.550Z",
+      "last_pushed_at": "2026-11-08T16:03:00.550Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:887": {
+      "kind": "problem",
+      "id": "887",
+      "title": "Build an MLP with nn.Sequential",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/887",
+      "path": "problems/0887-build-an-mlp-with-nn-sequential",
+      "first_solved_at": "2026-11-08T16:08:52.179Z",
+      "last_pushed_at": "2026-11-08T16:08:52.179Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
