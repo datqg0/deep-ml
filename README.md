@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 33 problems · 1 labs · 15 math
+**50** solved · 34 problems · 1 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-05 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-11-06 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-11-08 | [solution](problems/1227-numerically-stable-softmax) |
+| [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-09 | [solution](problems/1235-sgd-with-momentum-step) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-03 | [solution](problems/0842-standardscaler-fit-and-transform) |
 
 ## Labs
