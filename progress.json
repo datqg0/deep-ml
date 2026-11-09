@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:51:36.844Z",
+  "generated_at": "2026-11-09T02:00:47.407Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -604,9 +604,9 @@
       "url": "https://www.deep-ml.com/problems/1237",
       "path": "problems/1237-batch-a-tensordataset-with-dataloader",
       "first_solved_at": "2026-11-09T01:51:35.491Z",
-      "last_pushed_at": "2026-11-09T01:51:35.491Z",
+      "last_pushed_at": "2026-11-09T02:00:45.944Z",
       "language": "python",
-      "lines": 25
+      "lines": 15
     }
   }
 }
