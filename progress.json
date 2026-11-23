@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:42:42.318Z",
+  "generated_at": "2026-11-23T11:35:53.970Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -943,6 +943,19 @@
       "path": "math/0654-time-complexity-by-counting-loops-recurrences-and-the-master-theorem",
       "first_solved_at": "2026-11-21T16:42:41.194Z",
       "last_pushed_at": "2026-11-21T16:42:41.194Z"
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-11-23T11:35:52.062Z",
+      "last_pushed_at": "2026-11-23T11:35:52.062Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
