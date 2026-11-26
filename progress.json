@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:24:38.266Z",
+  "generated_at": "2026-11-26T12:13:31.976Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -969,6 +969,19 @@
       "last_pushed_at": "2026-11-26T11:24:37.452Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2026-11-26T12:13:31.294Z",
+      "last_pushed_at": "2026-11-26T12:13:31.294Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
